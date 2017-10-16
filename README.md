@@ -1,5 +1,5 @@
-### H1 Primer markdown
-# H2 Lista 1
+### <H1> Primer markdown
+# <H2> Lista 1
 
 1. Primer paso
 ··1. Sublista 1
