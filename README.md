@@ -8,4 +8,5 @@ Y aquí adjunto l'enllaç a rawgit de la meva pàgina web.
 
 https://rawgit.com/Edennn/Tasca-2/master/Tasca%202.html
 
+La diferència entre Absolute path i relative path, segons he entès es que Relative Path es quan l'imatge de la pàgina es troba al mateix directori i, en canvi, quen parlem de Absolute Path es quan l'imatge es troba a un servidor extern.
 
